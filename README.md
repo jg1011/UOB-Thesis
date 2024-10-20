@@ -18,7 +18,7 @@ be optimal but is of independent interest.
 ### Campos 2023
 SUPER IMPORTANT PAPER!!! Campos employs my, admittedly napkin level, approach to bounding sphere packing densities 
 in high dimensional space with random geometric graphs. The first 3 steps in the methodology (of the proof of thm 
-1.1) were quite literally exactly what I had in mind. The advent of theorem 1.3 to bound the large independent set
+1.1) were what I had in mind. The advent of theorem 1.3 to bound the large independent set
 was creative, and I believe this proof, while being left temporarily, is of independent interest. 
 
 - Understand sharpness argument for theorem 1.3, seen in the 2nd paragraph page 4. 
